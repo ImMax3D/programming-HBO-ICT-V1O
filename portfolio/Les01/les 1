@@ -1,0 +1,22 @@
+5 integer
+5.0 float
+5%2=1 integer
+5>1=true boolean
+'5' string
+10 integer
+'55' string
+'52' string
+2.5 float
+2 integer
+[5,2,1] list
+false boolean
+
+1_2
+#a
+len(list)
+34
+b
+'ice' in list
+True
+c
+mijnnaam='max'+' '+'olaf'+' '+'bosch'
